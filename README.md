@@ -1,7 +1,7 @@
 Install dependencies:
-bashflutter pub get
+flutter pub get
 
 Run the app:
-bashflutter run
+flutter run
 
 I also provide APk file here please check it
